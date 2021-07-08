@@ -1,3 +1,3 @@
 #!/bin/bash
-javac sum.java
-java sum
+javac sumtest.java
+java sumtest
